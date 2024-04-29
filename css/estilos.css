@@ -9,6 +9,7 @@ body{
 }
 
 .container{
+    background-color: white;
     width: 70%;
     padding: 1em;
     text-align: left;
