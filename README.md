@@ -8,6 +8,7 @@ Un blog increible construido con mucho amor
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Trucos bajo la manga del profesor
+* Creado por la increible Yenny Daruby
 
 ### Blogpost
 Ademas construimos un blogpost en html y css muy interesante, donde pusimos todo nuestro esfuerzo ❤️‍🔥
