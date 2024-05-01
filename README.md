@@ -9,6 +9,8 @@ Un blog increible construido con mucho amor
 * El verdadero amor por las buenas practicas
 * Trucos bajo la manga del profesor
 * Creado por la increible Yenny Daruby
+* Incluye ejemplos en windows,linux y mac
+* Disponible para todas las edades
 
 ### Blogpost
 Ademas construimos un blogpost en html y css muy interesante, donde pusimos todo nuestro esfuerzo ❤️‍🔥
